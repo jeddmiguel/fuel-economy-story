@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+#controls {
+    margin-bottom: 10px;
+}
+
+.annotation {
+    font-size: 14px;
+    font-weight: bold;
+    fill: darkred;
+}
